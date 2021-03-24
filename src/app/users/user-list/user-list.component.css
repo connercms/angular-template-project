@@ -1,0 +1,7 @@
+.users li.selected {
+  background-color: #cfd8dc;
+  color: white;
+}
+.users li.selected:hover {
+  background-color: #bbd8dc;
+}
